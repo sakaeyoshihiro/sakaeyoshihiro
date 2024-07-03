@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-![My Profile views]
-(https://img.shields.io/badge/x/follow/SakaeInfo?Label=x&logo=x&style=flat)](https://x.com/SakaeInfo)
+[![My X]
+(https://img.shields.io/badge/x/follow/SakaeInfo?Label=x&logo=x&style=flat)](https://x.com/SakaeInfo)]
 <!--
 **sakaeyoshihiro/sakaeyoshihiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
